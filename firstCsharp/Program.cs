@@ -10,7 +10,7 @@ namespace firstApp
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello  me ");
+            Console.Write("Hello hasib ");
 
             Console.ReadKey();
         }
